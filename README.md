@@ -110,8 +110,10 @@ This stage simulates a deployment scenario by running trained models on the test
 - Datasets/test_pred_results_{model}.csv
 
 
-### 3️⃣ Data Visualization and Dashboard
+### 4️⃣ Data Visualization and Dashboard
 A Power BI interactive dashboard that captures important customer details based on deployment prediction results.
+
+![BI Dashboard](BI_Dashboard.png)
 
 **BI file:**
 - BI_Dashboard.pbix
