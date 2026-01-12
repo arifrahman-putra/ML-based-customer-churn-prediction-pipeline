@@ -149,7 +149,7 @@ Given the extreme class imbalance, accuracy alone is insufficient. The following
 
 ### Model validation prediction results
 
-The following results are obtained on the **development validation set**, which simulates unseen future transactions containing a mixture of normal and fraudulent behavior. Due to the adopted sampling strategy, evaluation focuses on **precision, recall, and F1-score** rather than accuracy alone.
+The following results are obtained on the **development validation set**, which simulates unseen future subscriptions containing a mixture of normal (unchurned) and churned customers. Due to the adopted sampling strategy, evaluation focuses on **precision, recall, and F1-score** rather than accuracy alone.
 
 ---
 
