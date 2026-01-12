@@ -1,0 +1,6 @@
+.venv/
+catboost_info/
+Datasets/
+Saved Models/
+*.pkl
+*.pbix
